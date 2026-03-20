@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "ソラノキオク",
-  "base_artist": "Chihiro Yonekura",
-  "createdAt": "2025-12-21T11:54:04.809738Z",
+  "base_artist": "米倉千尋",
+  "createdAt": "2026-03-20T15:15:48.907747Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,14 +11,6 @@
       "artist": "米倉 千尋",
       "has_synced": false,
       "path": "select/pl_01_ソラノキオク_米倉_千尋.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "ソラノキオク",
-      "artist": "米倉 千尋",
-      "has_synced": false,
-      "path": "select/pl_02_ソラノキオク_米倉_千尋.txt"
     }
   ]
 }
